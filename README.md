@@ -1,5 +1,5 @@
 # PlaySheet
-A mobile application created on Android Studio which accepts a music sheet, scans it and plays the tune of the music sheet through the use of Optical Music Recognition (OMR).
+A mobile application created on Android Studio which accepts a music sheet, scans it and plays the tune of the music sheet through the use of Optical Music Recognition (OMR). Demo: https://youtube.com/shorts/HeN24CEaPgA?feature=share
 
 ## Software
 The processing and conversion of the music sheet to a tune is performed through a Python software connected to the mobile application through a server. The conversion can be broken down into 9 steps:
